@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-Tic Tac Toe game build uding java
+Tic Tac Toe game build using java
+
